@@ -1,0 +1,4 @@
+.settings/
+target/classes/
+target/m2e-wtp/
+target/test-classes/
